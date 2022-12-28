@@ -1,8 +1,2 @@
 # Node Modules
 node_modules/*
-
-# Json Files
-*.json
-
-# Lock File
-*.lock
