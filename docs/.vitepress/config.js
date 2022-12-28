@@ -4,7 +4,7 @@ export default {
   
   themeConfig: {
     siteTitle: 'Documentation',
-	base: '/documentation/docs/',
+	base: '/docs/',
 	nav: [
       { text: 'Documentation', link: '/documentation' },
       { text: 'Tutorials', link: '/tutorials' },
